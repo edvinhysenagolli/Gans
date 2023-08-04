@@ -1,4 +1,4 @@
-# Gans E-Scooter Sharing System - Data Pipeline Readme
+# Gans E-Scooter Sharing System - Data Pipeline
 ## Introduction
 Welcome to the Gans E-Scooter Sharing System Data Pipeline repository!
 The goal of this project is to create an effective data pipeline that collects and interprets external data to assist Gans in anticipating e-scooter movements.
