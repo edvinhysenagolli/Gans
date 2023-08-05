@@ -38,6 +38,9 @@ The major responsibility is to build and automate a data pipeline that does this
 
 `README.md` -> This file contains a high-level overview of the project and the data pipeline.
 
+## Medium
+Check out a [Medium Blog](https://medium.com/@edvinhysenagolli/from-web-scraping-to-cloud-computing-a-data-engineering-adventure-c29f77b3453d) with the title: `From Web Scraping to Cloud Computing: A Data Engineering adventure`, that reveals my whole journey regarding this project.
+
 ## Contributing
 Contributions to the project are greatly appreciated! If you have suggestions for improving the data pipeline, new data sources, or code enhancements, please submit a pull request.
 
