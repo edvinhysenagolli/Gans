@@ -1,0 +1,25 @@
+APIs useful websites for this project:
+https://openweathermap.org/
+https://rapidapi.com/hub
+
+
+Starting with AWS:
+RDS Database
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_SettingUp.html
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CreateDBInstance.html
+
+Lambda function
+https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html
+https://docs.aws.amazon.com/lambda/latest/dg/lambda-python.html
+
+Controlling cost, 0 budget
+https://aws.amazon.com/getting-started/hands-on/control-your-costs-free-tier-budgets/
+
+Layers
+https://github.com/keithrozario/Klayers/tree/master/deployments/python3.8
+
+Event bridge, creating a trigger
+https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-what-is.html
+
+AWS Data Wrangler
+https://github.com/aws/aws-sdk-pandas
