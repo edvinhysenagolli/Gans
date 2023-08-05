@@ -30,9 +30,11 @@ The major responsibility is to build and automate a data pipeline that does this
 ## Repository Structure
 `scripts` -> This directory contains scripts and notebooks for scraping, collecting, cleaning and transforming data from outside sources.
 
-`cloud_storage` -> This directory contains scripts for saving processed data in a cloud-based storage system.
+`queries` -> This directory contains queries for saving processed data in a cloud-based storage system.
 
-`docs` -> This is where you'll find any documentation or resources connected to the data pipeline and project.
+`figures` -> This is where you'll find some screenshots to have a view about some instances in the cloud.
+
+`useful` -> This directory contains some useful websites, starting with APIs websites that are for free, to some documentations and AWS helpful content to start with the cloud.
 
 `README.md` -> This file contains a high-level overview of the project and the data pipeline.
 
